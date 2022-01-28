@@ -2,6 +2,8 @@
 
 ASP.NET Core library for [ErrLog.IO](https://errlog.io/)
 
+This is a fork of Vassilis's awesome .Net Core package - forking for archival purposes - check out the original for updates [https://github.com/vassilis-panos/ErrLogIO.AspNetCore](https://github.com/vassilis-panos/ErrLogIO.AspNetCore)
+
 ## Installation
 
 .NET CLI
